@@ -1,7 +1,3 @@
-# tictack-client
-
-> How Long Does It Actually Take to do something
-
 ## Build Setup
 
 ``` bash
